@@ -1,7 +1,7 @@
 import Home from './Home';
-import CreatPost from './CreatePost';
+import CreatePost from './CreatePost';
 
 export {
-    Home,
-    CreatPost
-}
+  Home,
+  CreatePost,
+};
